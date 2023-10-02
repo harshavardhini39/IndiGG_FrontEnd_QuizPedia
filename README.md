@@ -1,16 +1,30 @@
 # QuizPedia ❤️ 
 
-## Created an interactive quiz page using HTML, CSS, and JavaScript.
+## Overview
 
-## link to check the app:
-### https://quizappharsha.s3.ap-south-1.amazonaws.com/index.html
-
-- It is a QUIZ Application which contains C and Java based MCQ’s with Timer and navigation proctoring facility. Login and Registration, User based Test summary Report
+QuizPedia is an interactive quiz application developed using HTML, CSS, and JavaScript. It features a collection of C and Java-based multiple-choice questions (MCQs) with a timer, navigation, login and registration functionalities, and user-based test summary reports.
 
 
-## Initially you have to click on index.html to start the quiz app 
 
-💡💡💡💡💡 
+## Features
+
+- Interactive quiz with timer.
+- MCQs for C and Java programming languages.
+- User registration and login system.
+- User-based test summary reports.
+- Easy navigation through the app.
+
+## Usage
+
+To use QuizPedia:
+
+1. Click on the [demo link](https://quizappharsha.s3.ap-south-1.amazonaws.com/index.html) to access the app.
+2. Register as a new user or log in.
+3. Select your preferred quiz (C or Java).
+4. Start the quiz and answer the questions within the given time.
+5. View your test summary report at the end.
+
+
 
 ## Loading screen
 ![Loading screen](https://github.com/harshavardhini39/IndiGG_FrontEnd_QuizPedia/blob/main/output/land.png)
