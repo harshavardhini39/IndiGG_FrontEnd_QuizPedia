@@ -55,6 +55,7 @@
 ![image](https://user-images.githubusercontent.com/43011442/144993453-a2382f0d-4b8d-4b2a-b6f1-688669987abd.png)
 ![image](https://user-images.githubusercontent.com/43011442/144993499-8a78bc57-ceaa-41ab-8d85-518bdf3d0f23.png)
 
+<img width="634" alt="image" src="https://github.com/harshavardhini39/IndiGG_FrontEnd_QuizPedia/assets/84300305/1652adc0-05c9-407e-9eae-3d127b5628ad">
 
 
 ## Test Summary for visualisation of test summaries we have to use backend data bases
@@ -69,7 +70,3 @@
 
 **Code and documentation Copyright 2021 : Harshavardhini Budde**
 
-[hackerrank]: https://www.hackerrank.com/mansiharsha
-[website]: https://hp39.s3.ap-south-1.amazonaws.com/harshaportfolio.html
-[instagram]: https://instagram.com/_ha.rsha__
-[linkedin]: https://www.linkedin.com/in/Harshavardhinibudde/
