@@ -13,7 +13,7 @@
 💡💡💡💡💡 
 
 ## Loading screen
-![Loading screen](https://github.com/harshavardhini39/IndiGG_FrontEnd_QuizPedia/blob/main/output/load.png)
+![Loading screen](https://github.com/harshavardhini39/IndiGG_FrontEnd_QuizPedia/blob/main/output/land.png)
 
 ## Landing Page
 ![Landing Page](https://github.com/harshavardhini39/IndiGG_FrontEnd_QuizPedia/blob/main/output/front.png)
