@@ -61,10 +61,7 @@
 ## Test Summary for visualisation of test summaries we have to use backend data bases
 
 ## Author Profile
-
-<img width="907" alt="image" src="https://github.com/harshavardhini39/IndiGG_Frontend_Quizpedia/assets/84300305/ccb0ee47-097f-49b0-b76c-4abed87ec250">
-<img width="855" alt="image" src="https://github.com/harshavardhini39/IndiGG_Frontend_Quizpedia/assets/84300305/1fc39dc0-c04a-4312-bae2-aa28ba40c84f">
-
+<img width="736" alt="image" src="https://github.com/harshavardhini39/IndiGG_FrontEnd_QuizPedia/assets/84300305/c594c249-7c52-4bce-a085-c3f36e98ab33">
 
 
 
