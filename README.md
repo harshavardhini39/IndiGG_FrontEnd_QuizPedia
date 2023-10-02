@@ -13,32 +13,35 @@
 💡💡💡💡💡 
 
 ## Loading screen
-![image][https://github.com/harshavardhini39/IndiGG_FrontEnd_QuizPedia/blob/main/output/load.png]
-## Landing Page
+![Loading screen](https://github.com/harshavardhini39/IndiGG_FrontEnd_QuizPedia/blob/main/output/load.png)
 
-![image][https://github.com/harshavardhini39/IndiGG_FrontEnd_QuizPedia/blob/main/output/front.png]
+## Landing Page
+![Landing Page](https://github.com/harshavardhini39/IndiGG_FrontEnd_QuizPedia/blob/main/output/front.png)
 
 ## New User Registration
-
-![image][https://github.com/harshavardhini39/IndiGG_FrontEnd_QuizPedia/blob/main/output/reg.png]
-
+![New User Registration](https://github.com/harshavardhini39/IndiGG_FrontEnd_QuizPedia/blob/main/output/reg.png)
 
 ## User Login
-
-![image][https://github.com/harshavardhini39/IndiGG_FrontEnd_QuizPedia/blob/main/output/login2.png]
+![User Login](https://github.com/harshavardhini39/IndiGG_FrontEnd_QuizPedia/blob/main/output/login2.png)
 
 ## Selection Page
-![image][https://github.com/harshavardhini39/IndiGG_FrontEnd_QuizPedia/blob/main/output/select.png]
-
+![Selection Page](https://github.com/harshavardhini39/IndiGG_FrontEnd_QuizPedia/blob/main/output/select.png)
 
 ## JAVA Quiz Selection
-
-![image][https://github.com/harshavardhini39/IndiGG_FrontEnd_QuizPedia/blob/main/output/choose.png]
+![JAVA Quiz Selection](https://github.com/harshavardhini39/IndiGG_FrontEnd_QuizPedia/blob/main/output/choose.png)
 
 ## Quiz Page
-![image][https://github.com/harshavardhini39/IndiGG_FrontEnd_QuizPedia/blob/main/output/start.png]
-![image][https://github.com/harshavardhini39/IndiGG_FrontEnd_QuizPedia/blob/main/output/q1.png]
-![image][https://github.com/harshavardhini39/IndiGG_FrontEnd_QuizPedia/blob/main/output/q2.png]
+![Quiz Page](https://github.com/harshavardhini39/IndiGG_FrontEnd_QuizPedia/blob/main/output/start.png)
+![Question 1](https://github.com/harshavardhini39/IndiGG_FrontEnd_QuizPedia/blob/main/output/q1.png)
+![Question 2](https://github.com/harshavardhini39/IndiGG_FrontEnd_QuizPedia/blob/main/output/q2.png)
+
+## Result Page
+![Result Page](https://github.com/harshavardhini39/IndiGG_FrontEnd_QuizPedia/blob/main/output/res.png)
+
+## Test Summary for visualisation of test summaries we have to use backend databases
+
+## Author Profile
+![Author Profile](https://github.com/harshavardhini39/IndiGG_FrontEnd_QuizPedia/blob/main/output/author.png)
 
 ## result page
 ![image][https://github.com/harshavardhini39/IndiGG_FrontEnd_QuizPedia/blob/main/output/res.png]
