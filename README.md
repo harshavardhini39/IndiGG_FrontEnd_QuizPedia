@@ -43,12 +43,6 @@
 ## Author Profile
 ![Author Profile](https://github.com/harshavardhini39/IndiGG_FrontEnd_QuizPedia/blob/main/output/author.png)
 
-## result page
-![image][https://github.com/harshavardhini39/IndiGG_FrontEnd_QuizPedia/blob/main/output/res.png]
-## Test Summary for visualisation of test summaries we have to use backend data bases
-
-## Author Profile
-![image][https://github.com/harshavardhini39/IndiGG_FrontEnd_QuizPedia/blob/main/output/author.png]
 
 
 
