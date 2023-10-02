@@ -13,9 +13,7 @@
 💡💡💡💡💡 
 
 ## Loading screen
-
-![image](https://user-images.githubusercontent.com/43011442/144991626-1d0557fe-424f-4f16-a481-6ce88b79a945.png)
-
+![image][https://github.com/harshavardhini39/IndiGG_FrontEnd_QuizPedia/blob/main/output/choose.png]
 ## Landing Page
 
 <img width="912" alt="image" src="https://github.com/harshavardhini39/IndiGG_Frontend_Quizpedia/assets/84300305/01409ec9-51c6-4b53-bced-41084f71c953">
